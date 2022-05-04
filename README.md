@@ -3,7 +3,7 @@
 Fala Glaera eu sou EdbergMartins 👋
 
 - 🔭 Hoje trabalho como projetista em uma empresa na área de Engenharia Civil.
-- 🌱 Estou me formando em Ciencias da Computação e me especializando em React.
+- 🌱 Sou recem formado em Ciências da Computação e estou a procura do meu primeiro emprego.
 - 👯 Procuro ser colaborativo e participativo ...
 - 🤔 Ajudo como posso ...
 - 📫 Podemos nos comunicar atraves do email: Edbergmartins@gmail.com
