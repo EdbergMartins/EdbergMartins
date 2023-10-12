@@ -2,12 +2,10 @@
 
 Fala Glaera eu sou EdbergMartins 👋
 
-- 🔭 Hoje trabalho como projetista em uma empresa na área de Engenharia Civil.
-- 🌱 Sou recem formado em Ciências da Computação e estou a procura do meu primeiro emprego.
+- 🔭 Formado em Ciencias da Computação e Engenharia Civil.
 - 👯 Procuro ser colaborativo e participativo ...
 - 🤔 Ajudo como posso ...
 - 📫 Podemos nos comunicar atraves do email: Edbergmartins@gmail.com
-- 😄 Proneomes: ele/dele
 
 <div id="stats">
   <a href="https://github.com/EdbergMartins">
