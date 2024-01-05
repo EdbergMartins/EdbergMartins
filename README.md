@@ -2,10 +2,10 @@
 
 Fala Glaera eu sou EdbergMartins 👋
 
-- 🔭 Formado em Ciencias da Computação e Engenharia Civil.
-- 👯 Procuro ser colaborativo e participativo ...
-- 🤔 Ajudo como posso ...
-- 📫 Podemos nos comunicar atraves do email: Edbergmartins@gmail.com
+-  Formado em Ciencias da Computação e Engenharia Civil.
+-  Procuro ser colaborativo e participativo ...
+-  Ajudo como posso ...
+-  Podemos nos comunicar atraves do email: Edbergmartins@gmail.com
 
 <div id="stats">
   <a href="https://github.com/EdbergMartins">
